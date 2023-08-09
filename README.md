@@ -1,7 +1,7 @@
 # Pong-game
 Play the classic pong game created using Python Turtle graphics!
 
-<img src="https://github.com/rayray39/Pong-game/assets/108506541/39b3fcd7-5040-4b2c-93c0-9975154da7ad=250x">
+<img src="https://github.com/rayray39/Pong-game/assets/108506541/39b3fcd7-5040-4b2c-93c0-9975154da7ad=250x" width = 50% height = 50%>
 
 ## Introduction
 This is a version of the classic Pong game, released by Atari back in 1972. It is a 2-player game where each player controls a paddle and continuously serves a ball to each other. A player scores a point if its opponent is unable to return the serve.
