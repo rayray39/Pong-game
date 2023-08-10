@@ -1,12 +1,5 @@
 # Pong-game
 Play the classic pong game created using Python Turtle graphics!
- ________  ________  ________   ________     
-|\   __  \|\   __  \|\   ___  \|\   ____\    
-\ \  \|\  \ \  \|\  \ \  \\ \  \ \  \___|    
- \ \   ____\ \  \\\  \ \  \\ \  \ \  \  ___  
-  \ \  \___|\ \  \\\  \ \  \\ \  \ \  \|\  \ 
-   \ \__\    \ \_______\ \__\\ \__\ \_______\
-    \|__|     \|_______|\|__| \|__|\|_______|
 
 <img src="https://github.com/rayray39/Pong-game/assets/108506541/39b3fcd7-5040-4b2c-93c0-9975154da7ad=250x" width = 50% height = 50%>
 
